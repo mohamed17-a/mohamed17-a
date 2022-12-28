@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Mohamed Abdallah</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed17-a&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed17-a" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed17-a&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed17-a" /> </p>
 
 - 📫 How to reach me **moabdallah7.office@gmail.com**
 
