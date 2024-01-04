@@ -11,9 +11,9 @@
 <a href="https://www.linkedin.com/in/mohamedabdallah17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedabdallah17/" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://codeforces.com/profile/mo_abdallah17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mo_abdallah17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/mohamed_youssef4" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="Mohamed Abdallah" height="40" width="40" /></a>
 <a href="https://leetcode.com/MoAbdallah17/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Mohamed Abdallah" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/mo_abdallah17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mo_abdallah17" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <hr>
