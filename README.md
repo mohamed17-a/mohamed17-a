@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Mohamed Abdallah</h1>
 <h3 align="center">A Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed17-a&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed17-a" /> </p>
-
 - 📫 How to reach me **moabdallah7.office@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -29,5 +27,6 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/> </a>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></a>
 </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed17-a&show_icons=true&locale=en&layout=compact" alt="mohamed17-a" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed17-a&show_icons=true&locale=en&layout=compact" alt="mohamed17-a" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed17-a&" alt="mohamed17-a" /></p>
